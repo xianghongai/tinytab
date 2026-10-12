@@ -10,7 +10,7 @@ Website: <https://tinytab.xinlu.ink/>
 
 ## Download and install
 
-1. Download `TinyTab.dmg` from [Releases](https://github.com/xianghongai/TinyTab/releases/latest).
+1. Download `TinyTab.dmg` from [Releases](https://github.com/xianghongai/tinytab/releases/latest).
 2. Open the DMG and drag TinyTab into the Applications folder.
 3. When you open the DMG and the first time you open TinyTab, macOS says it was “Not Opened” because Apple could not verify it is free of malware; TinyTab isn't notarized by Apple. Click Done (not Move to Trash), go to System Settings > Privacy & Security, click Open Anyway, and open it again.
 4. Grant Accessibility access when asked. TinyTab needs it to intercept `Cmd + Tab` and switch other apps' windows; it takes effect without restarting TinyTab.
@@ -27,4 +27,4 @@ Every feature works before activation; after a while, TinyTab reminds you to act
 
 ## Feedback
 
-Report problems or suggest ideas in [Issues](https://github.com/xianghongai/TinyTab/issues).
+Report problems or suggest ideas in [Issues](https://github.com/xianghongai/tinytab/issues).

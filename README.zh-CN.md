@@ -10,7 +10,7 @@
 
 ## 下载与安装
 
-1. 从 [Releases](https://github.com/xianghongai/TinyTab/releases/latest) 下载 `TinyTab.dmg`。
+1. 从 [Releases](https://github.com/xianghongai/tinytab/releases/latest) 下载 `TinyTab.dmg`。
 2. 打开 DMG，把 TinyTab 拖入“应用程序”文件夹。
 3. 双击 DMG 以及首次打开 TinyTab 时，系统会提示“未打开”“Apple 无法验证是否包含恶意软件”：TinyTab 没有经过 Apple 公证。点“完成”关闭提示（不要点“移到废纸篓”），在“系统设置 > 隐私与安全性”中点“仍要打开”，再打开一次即可。
 4. 按提示授予辅助功能权限。拦截 `Cmd + Tab` 与切换其他应用的窗口都需要这项权限，授权后无需重启 TinyTab。
@@ -27,4 +27,4 @@
 
 ## 问题反馈
 
-在 [Issues](https://github.com/xianghongai/TinyTab/issues) 中报告问题或提出建议。
+在 [Issues](https://github.com/xianghongai/tinytab/issues) 中报告问题或提出建议。
